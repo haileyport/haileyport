@@ -1,10 +1,6 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Eunhye%20Jeon&fontSize=90"/>
 </div>
-<div align=center>
-  <h3>Today</h3>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.io%2Fhaileyport&count_bg=%2395D1FF&title_bg=%23242165&icon=&icon_color=%239AFFDB&title=hits&edge_flat=false"/></a>
-</div>
 
 <div align=center>
   <h2>🦊Tech Stack🦊</h2>
@@ -32,7 +28,18 @@
 </div>
 
 <div align=center>
+  <h2>Today</h2>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.io%2Fhaileyport&count_bg=%2395D1FF&title_bg=%23242165&icon=&icon_color=%239AFFDB&title=hits&edge_flat=false"/></a>
+</div>
+
+<div align=center>
+  <h2>Work now</h2>
+  <a href="https://caredit.net">CaREDIT</a> SW Team.  SW Enginneer 23.02 ~
+</div>
+
+<div align=center>
 	<br>
+	<h2>Record</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyport&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=haileyport&show_icons=true">
 </div>
