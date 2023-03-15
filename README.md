@@ -11,14 +11,24 @@
   	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=%black" />
   </div>
   <div>
+	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  </div>
+  <div>
   <!--css-->
   	<img src="https://img.shields.io/badge/styledComponent-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
   	<img src="https://img.shields.io/badge/Tailwind_Css-06B6D4?style=for-the-badge&logo=Tailwind_CSS&logoColor=white" />
   </div>
   <div>
-  <!--library-->
+  <!--fe library-->
     <img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=recoli&logoColor=black" />
     <img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=white" />
+  </div>
+  <div>
+  <!--be library-->
+     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+     <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
   </div>
   <div>
   <!--cowork-->  
