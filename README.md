@@ -7,10 +7,13 @@
   <div>
   <!--language, framework-->
   	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black" />
-  	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=%black" />
+  	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  	<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  	
   </div>
   <div>
+	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  	<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=%black" />
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" />
   </div>
@@ -23,6 +26,10 @@
   <!--fe library-->
     <img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=recoli&logoColor=black" />
     <img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=white" />
+  </div>
+  <div>
+  <!--app library-->
+    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   </div>
   <div>
   <!--be library-->
