@@ -4,7 +4,7 @@
 
 <div align=center>
   <h2>🦊Tech Stack🦊</h2>
-  <div>JS 기반의 웹 프론트와 백엔드를 주 업무로 하고 있습니다. 취미(?)로 플러터를 배우고 있습니다.</div>
+  <div>JS 기반의 웹 업무를 하고 있습니다. 취미(?)로 플러터를 배우고 있습니다.</div>
 	<br/>
   <div>
   <!--language, framework-->
