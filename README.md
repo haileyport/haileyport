@@ -65,6 +65,7 @@
 	<h2>Record</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileyport&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=haileyport&show_icons=true">
+<img src="https://github-profile-trophy.vercel.app/?username=haileyport&column=4">
 </div>
 
 <!--
