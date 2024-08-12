@@ -4,13 +4,12 @@
 
 <div align=center>
   <h2>🦊Tech Stack🦊</h2>
-  <div>JS 기반의 웹 업무를 하고 있습니다. 취미(?)로 플러터를 배우고 있습니다.</div>
+  <div>JS 기반의 웹 업무를 하고 있습니다.</div>
 	<br/>
   <div>
   <!--language, framework-->
   	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black" />
   	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  	<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   </div>
 	<br/>
   <div>
@@ -38,7 +37,6 @@
 	<br/>
   <div>
   <!--app library-->
-    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   </div>
 	<br/>
   <div>
